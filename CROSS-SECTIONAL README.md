@@ -50,7 +50,7 @@ Below is the recommended steps for processing cross-sectional MRI data through A
 -Input files needed: final masked T1 (and final masked T2 if available)\
 -Open the script \'SBMCross1\' and set the file path and file names\
 -Save and run the script.\
--Use the command \'tkregister2 \'97s <Subject> \'97fstal\' to open the graphical interface\
+-Use the command \'tkregister2 \'s <Subject> \'fstal\' to open the graphical interface\
 -Translate, Scale and Rotate the brain so that it aligns as closely as possible to the target on all 3 planes (coronal. Sagittal and horizontal).\
 -Once aligned click \'SAVE REG\' and close the tkregister2 graphical interface.\
 -Open the script \'SBMCross2\' and set the file path and file names\
