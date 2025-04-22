@@ -21,4 +21,3 @@ Processing longitudinal data using AutoMacq requires the additional steps outlin
 -This produces the base files for each subject\
 -Finally, run the command \'Recon-all -long <timepoint> <Subject> -all -notalcheck\' for every timepoint and subject.\
 \
-}
