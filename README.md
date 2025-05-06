@@ -1,7 +1,7 @@
 # AutoMacq
 Automatic-Processing-Pipeline-For-Structural-MRI-Data-From-Rhesus-Macaques
 
-The AutoMacq pipeline combines both voxel-based and surface-based processing and can handle both cross-sectional and longitudinal datasets (see relevant README files).
+The AutoMacq pipeline combines both voxel-based and surface-based processing and can handle data from different sites with different scan parameters.
 
 PIPELINE CREATED AND TESTED USING THE FOLLOWING SOFTWARE VERSIONS:
 
