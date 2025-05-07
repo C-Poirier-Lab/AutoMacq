@@ -2,8 +2,7 @@
 
 subject=$1
 
-cd /home/nathan/Documents/RescanFull/${subject}
-# source /Applications/freesurfer/startfreesurfer #different for linux but already called 
+cd /home/Documents/MRI/${subject}
 
 # # # Preparation
 DenoiseImage -i T1.nii -o denoised.nii.gz -v # denoise
