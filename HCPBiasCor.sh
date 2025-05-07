@@ -5,7 +5,7 @@ echo -e "\n START: BiasFieldCorrection"
  
 subject=$1
 
-WorkingDirectory="/Users/nathan/Desktop/FSFiles2021/${subject}"
+WorkingDirectory="/Users/Documents/MRI/${subject}"
 T1wImage="denoised_N4.nii.gz"
 T1wImageBrain="denoised_N4_masked.nii.gz"
 T2wImage="T2.nii"
